@@ -2,52 +2,26 @@
 
 <h2>Overview</h2>
 
-I was engaged as a cybersecurity consultant to strengthen the security posture of a growing e-commerce company that processed high volumes of customer transactions and stored sensitive financial data. The project focused on assessing risks to the confidentiality, integrity, and availability (CIA) of critical assets and developing a treatment plan aligned with ISO 27001 standards.
-
-I served as a cybersecurity consultant for a rapidly expanding e-commerce company that handled large volumes of customer transactions and retained sensitive financial data. The engagement centered on evaluating risks to the confidentiality, integrity, and availability (CIA) of critical assets and on building a treatment plan consistent with ISO 27001 requirements.
-
-
+During my time at the company, I led a project focused on assessing risks to the confidentiality, integrity, and availability (CIA) of critical assets and developing a treatment plan aligned with ISO 27001 standards.
 
 <h2>Key Actions</h2>
 
-### Risk Assessment (ISO 27001 Guidelines):
+### Risk Assessment
+As part of the risk assessment, I defined the scope to include systems supporting customer and financial data, compiled an asset register covering databases, web servers, and payment platforms, and aligned the identified assets with regulatory requirements such as PCI DSS and GDPR. 
 
-- Defined scope to systems handling customer and financial data.<br>
-- Conducted asset inventory (databases, web servers, payment systems).<br>
-- Mapped regulatory obligations (PCI DSS, GDPR).
+### Threat & Vulnerability Analysis
+During the threat and vulnerability analysis, I flagged potential risks including malware targeting payment infrastructure, DDoS attacks against web servers, and insider abuse of customer data, while also recording vulnerabilities such as obsolete antivirus solutions, the absence of a web application firewall, and excessive privilege assignments
 
-### Threat & Vulnerability Analysis:
+### Risk Evaluation
+I then carried out a qualitative risk evaluation using a likelihood and impact matrix, which resulted in phishing-related breaches and SQL injection being ranked as high priority risks, while DDoS attacks were classified as medium-level threats requiring targeted mitigation. 
 
-- Identified risks including malware on payment systems, DDoS against web servers, insider misuse of customer databases.<br>
-- Documented vulnerabilities such as outdated antivirus, lack of WAF, and excessive user permissions.
+### Risk Treatment
+For risk treatment, I reduced risks through email filtering, multi-factor authentication, and systematic patching; eliminated risks by decommissioning insecure third-party integrations; transferred risks through cyber insurance and updated cloud service contracts; and accepted low-level risks with minimal business impact.
 
-### Risk Evaluation:
-
-- Applied qualitative risk matrix (likelihood × impact).<br>
-- Prioritized phishing-based breaches and SQL injection as “High” risks.<br>
-- Classified DDoS as a “Medium” risk requiring mitigation.
-
-### Risk Treatment Planning:
-
-- **Mitigation:** Email filtering, MFA, patch management.<br>
-- **Avoidance:** Remove insecure 3rd-party integrations.<br>
-- **Transfer:** Cyber insurance and cloud service agreements.<br>
-- **Acceptance:** Low-impact risks with minimal exposure.
-
-### Security Control Recommendations (ISO 27001 Annex A, 2022):
-
-- **A.5 Policies:** Implement enterprise-wide Information Security Policy.<br>
-- **A.9 Access Control:** Enforce RBAC to reduce insider risk.<br>
-- **A.12 Operations Security:** Establish formal Patch Management Program.<br>
-- **A.18 Compliance:** Schedule periodic compliance audits and monitoring.
+Based on ISO 27001 Annex A (2022), I also recommended specific security controls. These included rolling out an enterprise-wide information security policy, applying role-based access control to limit insider exposure, launching a structured patch management program, and instituting recurring compliance audits and monitoring routines.
 
 <h2>Results & Impact</h2>
-
-- Provided leadership with a structured, ISO-aligned view of cyber risks.<br>
-- Delivered a prioritized treatment roadmap, balancing mitigation with business realities.<br>
-- Strengthened compliance posture ahead of PCI DSS and GDPR reviews.<br>
-- Enabled proactive security investment by linking risks to business impact.
-
+The outcomes of this engagement were tangible. I provided leadership with a clear, ISO aligned perspective of the company’s cyber risk posture, delivered a prioritized treatment roadmap that balanced mitigation with business objectives, reinforced compliance readiness for PCI DSS and GDPR assessments, and enabled strategic investment in security by directly linking risks to business outcomes.
 
 
 
