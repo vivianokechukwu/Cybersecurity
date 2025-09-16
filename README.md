@@ -1,8 +1,12 @@
-<h1>Cybersecurity Risk Assessment & Treatment Plan - E-Commerce Company</h1>
+<h1>Cybersecurity Risk Assessment & Treatment Plan for E-Commerce Company</h1>
 
 <h2>Overview</h2>
 
 I was engaged as a cybersecurity consultant to strengthen the security posture of a growing e-commerce company that processed high volumes of customer transactions and stored sensitive financial data. The project focused on assessing risks to the confidentiality, integrity, and availability (CIA) of critical assets and developing a treatment plan aligned with ISO 27001 standards.
+
+I served as a cybersecurity consultant for a rapidly expanding e-commerce company that handled large volumes of customer transactions and retained sensitive financial data. The engagement centered on evaluating risks to the confidentiality, integrity, and availability (CIA) of critical assets and on building a treatment plan consistent with ISO 27001 requirements.
+
+
 
 <h2>Key Actions</h2>
 
